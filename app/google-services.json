@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "952825647248",
+    "firebase_url": "https://my-app-ca992-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "my-app-ca992",
+    "storage_bucket": "my-app-ca992.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:952825647248:android:47b78a0cf7894661b78815",
+        "android_client_info": {
+          "package_name": "com.vishal.Dailydose"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "952825647248-9acqlaua38i4klnkmrffrblemsg8kh3u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIkJW6R9AWBIGeZ5aibLNUR20Iz-Dyh1s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "952825647248-9acqlaua38i4klnkmrffrblemsg8kh3u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
